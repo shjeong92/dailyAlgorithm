@@ -1,4 +1,3 @@
-from functools import reduce
 import sys
 
 input = sys.stdin.readline
